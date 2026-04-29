@@ -23,7 +23,7 @@
 <td valign="top" width="60%">
 
 - 🎓 CS student @ **Zhejiang University of Technology**, Computer Science & Technology.
-- ⚔️ **Vision Group Lead** @ RoboMaster Team **ZJUTDeus** (26-27 season) — yes, they gave a newbie the keys 🔑.
+- ⚔️ **Vision Group Lead** @ **ZJUTDeus** (26-27 season) — yes, they gave a newbie the keys 🔑.
 - 🐱 **Tech Lead** @ **ArcMeow-Lab** — a *Campus Innovation Lab* where we experiment wildly and break things responsibly.
 - 🤖 Amateur tinkerer of **AI Agent frameworks** — not a researcher, just someone who reads too many papers at 2am.
 - 🔭 Dabbling in **RoboMaster vision algorithms** and occasionally getting lost in **Hybrid Transformer architectures**.
@@ -31,7 +31,7 @@
 - ⚡ Fun fact: *My code either runs perfectly on the first try or doesn't compile at all. No in between.*
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="40%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmorlee&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
 
