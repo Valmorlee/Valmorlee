@@ -49,6 +49,7 @@
       <b>💻 Languages</b><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -84,7 +85,10 @@
 
 | 🛡️ Project | 📝 Description | 💻 Key Tech |
 | ----------- | -------------- | ----------- |
-| [**RM_yoloONNX**](https://github.com/Valmorlee/RM_yoloONNX) | YOLO object detection using ONNX runtime in C++, tuned for RoboMaster environments. *It works. Sometimes.* | `C++`, `ONNX`, `YOLO` |
+| 🔒 **Hyxon** *(Private)* | An AI-powered educational workflow orchestration system — teaching plan generation, multi-agent classroom simulation, knowledge graph, RAG, and PPT pipeline. Built for **ArcMeow-Lab × ArcEdu**. My most ambitious project so far. | `Python`, `FastAPI`, `LangGraph`, `Neo4j`, `RAGFlow`, `Redis` |
+| 🔒 **Deus-Vision-RM** *(Private)* | RoboMaster 2027 full-auto vision system for **ZJUTDeus** infantry — C++20 multi-threaded pipeline on Jetson Orin, featuring YOLO11 + TensorRT FP16 inference, CUDA preprocessing, EKF multi-target tracking, and ballistic compensation. | `C++20`, `TensorRT`, `CUDA`, `OpenCV`, `Eigen3` |
+| 🔒 **OmniAven-v2** *(Private)* | A production-grade **AI search & orchestration gateway** written in **Rust** — featuring real-time SSE deep search, ONNX-based local reranking (BGE), vector semantic cache (Qdrant), LLM fallback orchestration, PII guardrails, and OpenAI-compatible API. My ~~overengineered~~ high-performance secret weapon. | `Rust`, `Axum`, `Tokio`, `Qdrant`, `ONNX`, `Redis` |
+| [**RM_yoloONNX**](https://github.com/Valmorlee/RM_yoloONNX) *(Demo)* | A personal learning reference for YOLO + ONNX Runtime in C++. Not production-grade — just me fumbling around with object detection before the real stuff. | `C++`, `ONNX`, `YOLO` |
 | [**Sys_CSRoom**](https://github.com/Valmorlee/Sys_CSRoom) | Terminal-based Computer Room Billing System. My first real C++ project — held together with love and `std::map`. | `C++`, `FTXUI` |
 
 *(More Agent shenanigans and CV experiments incoming... whenever I have time between exams 🫡)*
