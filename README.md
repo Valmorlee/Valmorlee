@@ -23,7 +23,7 @@
 <td valign="top" width="60%">
 
 - 🎓 CS student @ **Zhejiang University of Technology**, Computer Science & Technology.
-- ⚔️ **Vision Group Lead** @ **ZJUTDeus** (26-27 season) — yes, they gave a newbie the keys 🔑.
+- ⚔️ **Vision Leader** @ **ZJUTDeus** (RoboMaster27) — yeah, they gave a newbie the keys 🔑.
 - 🐱 **Tech Lead** @ **ArcMeow-Lab** — a *Campus Innovation Lab* where we experiment wildly and break things responsibly.
 - 🤖 Amateur tinkerer of **AI Agent frameworks** — not a researcher, just someone who reads too many papers at 2am.
 - 🔭 Dabbling in **RoboMaster vision algorithms** and occasionally getting lost in **Hybrid Transformer architectures**.
