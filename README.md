@@ -33,7 +33,7 @@
 </td>
 <td valign="middle" width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmorlee&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+<img src="https://ghstats.dev/api/langs?username=Valmorlee&theme=tokyonight&layout=stacked&hide_border=true&max_langs=8" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
@@ -98,7 +98,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valmorlee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Valmorlee's GitHub stats" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=Valmorlee&theme=tokyonight&show_icons=true&hide_border=true" alt="Valmorlee's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valmorlee&theme=tokyonight&hide_border=true&background=0D1117" alt="Valmorlee's GitHub streak" width="48%" />
 </div>
 
