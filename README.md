@@ -17,8 +17,7 @@
 - CS student @ **Zhejiang University of Technology**, Computer Science &amp; Technology.
 - **Vision Leader** @ **ZJUTDeus** for RoboMaster 2027.
 - **Tech Lead** @ **ArcMeow-Lab**, a campus innovation lab for experiments that sometimes even survive contact with reality.
-- Building around **RoboMaster vision**, **CUDA/TensorRT inference**, and **multi-agent educational workflows**.
-- Interested in **AI agents**, **hybrid transformer architectures**, and systems that are only slightly overengineered.
+- Obsessing over **Robotics AI**, **hybrid architectures**, and **AI Infra** — bridging low-latency edge perception with agentic backends that are only *mildly* overengineered.
 
 </td>
 <td valign="center" width="42%" align="center">
