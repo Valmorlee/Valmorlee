@@ -10,7 +10,7 @@
   <line x1="20" y1="40" x2="740" y2="40" stroke="#292e42" stroke-width="1"/>
   <rect x="20" y="52" width="170" height="54" rx="6" fill="#16161e" stroke="#292e42"/>
   <text x="32" y="71" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">COMMITS (1Y)</text>
-  <text x="32" y="95" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="700">16</text>
+  <text x="32" y="95" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="700">17</text>
   <rect x="203" y="52" width="170" height="54" rx="6" fill="#16161e" stroke="#292e42"/>
   <text x="215" y="71" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">REPOSITORIES</text>
   <text x="215" y="95" fill="#73daca" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="700">2</text>
