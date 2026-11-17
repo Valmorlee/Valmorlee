@@ -19,7 +19,6 @@
 - **Tech Lead** @ **ArcMeow-Lab**, a campus innovation lab for experiments that sometimes even survive contact with reality.
 - Building around **RoboMaster vision**, **CUDA/TensorRT inference**, and **multi-agent educational workflows**.
 - Interested in **AI agents**, **hybrid transformer architectures**, and systems that are only slightly overengineered.
-- Fun fact: my code either runs perfectly on the first try or refuses to compile with theatrical confidence.
 
 </td>
 <td valign="center" width="42%" align="center">
