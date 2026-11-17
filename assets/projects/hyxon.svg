@@ -1,0 +1,12 @@
+<svg viewBox="0 0 380 126" width="380" height="126" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hyxon project card">
+  <rect x="0.5" y="0.5" width="379" height="125" rx="8" fill="#1a1b27" stroke="#292e42"/>
+  <circle cx="22" cy="25" r="5" fill="#7aa2f7"/>
+  <text x="34" y="30" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Hyxon</text>
+  <rect x="306" y="15" width="58" height="18" rx="9" fill="#292e42"/>
+  <text x="335" y="27" text-anchor="middle" fill="#bb9af7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600">Private</text>
+  <text x="18" y="56" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">AI educational workflow orchestration: teaching plans,</text>
+  <text x="18" y="73" fill="#9aa5ce" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">multi-agent classroom simulation, KG, RAG &amp; PPT.</text>
+  <circle cx="22" cy="102" r="4.5" fill="#3572A5"/>
+  <text x="32" y="106" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5">Python</text>
+  <text x="92" y="106" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">FastAPI · LangGraph · Neo4j · Redis</text>
+</svg>

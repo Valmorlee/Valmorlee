@@ -1,109 +1,96 @@
-<h1 align="center">Hi there, I'm Valmorlee 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Coding+Enthusiast+%F0%9F%90%94+(still+figuring+things+out);RoboMaster+Vision+Newbie+%E2%9A%94%EF%B8%8F+%F0%9F%94%AB;Pretending+to+understand+Transformers...;Agent+Framework+Tinkerer+%F0%9F%A4%96;ZJUT+CS+Student+%7C+Deus+Vision+Lead" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/University-ZJUT%20%7C%20CS%20%26%20Tech-005BAC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="University"/>
-  <img src="https://img.shields.io/badge/Location-Hangzhou-FF5722?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/⚔️%20RoboMaster-Deus@Vision%2026--27-E53935?style=for-the-badge&logoColor=white" alt="ZJUTDeus"/>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=38&pause=60000&color=7AA2F7&center=true&vCenter=true&width=520&height=56&lines=VALMORLEE" alt="VALMORLEE" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=800&pause=60000&color=A9B1D6&center=true&vCenter=true&width=580&height=28&lines=CS+student+%40+ZJUT+%C2%B7+Robotics+AI+%26+Infra+Rookie" alt="CS student @ ZJUT · Robotics AI & Infra Rookie" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=73DACA&center=true&vCenter=true&width=640&height=30&lines=%24+whoami+%E2%86%92+ZJUT+CS+%7C+ArcMeow-Lab+Tech+Lead;%24+vision+%E2%86%92+C%2B%2B20+%2F+CUDA+%2F+TensorRT+FP16;%24+agents+%E2%86%92+Rust+%2F+Python+%2F+LangGraph+%2F+RAG" alt="Typing CLI" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="center" width="58%">
 
-- 🎓 CS student @ **Zhejiang University of Technology**, Computer Science & Technology.
-- ⚔️ **Vision Leader** @ **ZJUTDeus** (RoboMaster27) — yeah, they gave a newbie the keys 🔑.
-- 🐱 **Tech Lead** @ **ArcMeow-Lab** — a *Campus Innovation Lab* where we experiment wildly and break things responsibly.
-- 🤖 Amateur tinkerer of **AI Agent frameworks** — not a researcher, just someone who reads too many papers at 2am.
-- 🔭 Dabbling in **RoboMaster vision algorithms** and occasionally getting lost in **Hybrid Transformer architectures**.
-- 🐣 Essentially a *well-caffeinated undergrad* pretending to know what they're doing.
-- ⚡ Fun fact: *My code either runs perfectly on the first try or doesn't compile at all. No in between.*
+- CS student @ **Zhejiang University of Technology**, Computer Science &amp; Technology.
+- **Vision Leader** @ **ZJUTDeus** for RoboMaster 2027.
+- **Tech Lead** @ **ArcMeow-Lab**, a campus innovation lab for experiments that sometimes even survive contact with reality.
+- Building around **RoboMaster vision**, **CUDA/TensorRT inference**, and **multi-agent educational workflows**.
+- Interested in **AI agents**, **hybrid transformer architectures**, and systems that are only slightly overengineered.
+- Fun fact: my code either runs perfectly on the first try or refuses to compile with theatrical confidence.
 
 </td>
-<td valign="middle" width="40%" align="center">
-
-<img src="https://ghstats.dev/api/langs?username=Valmorlee&theme=tokyonight&layout=stacked&hide_border=true&max_langs=8" alt="Top Languages" width="100%" />
-
+<td valign="center" width="42%" align="center">
+  <img src="./assets/focus.svg" alt="valmorlee@zjut — focus.toml" width="100%" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,rust,java,go,cuda,pytorch,opencv,ros&theme=dark" alt="Languages and Robotics Vision Stack" />
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,fastapi,neo4j,redis,docker,cmake,linux,git&theme=dark" alt="AI Agents, Backend, and Infra Stack" />
+</p>
+
+<p align="center">
+  Also working with: <code>TensorRT</code> · <code>ONNX Runtime</code> · <code>LangGraph</code> · <code>Qdrant</code> · <code>Eigen3</code>
+</p>
+
+---
+
+### Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>💻 Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <td width="50%" align="center">
+      <img src="./assets/projects/hyxon.svg" alt="Hyxon (Private)" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <b>🤖 AI / Vision Frameworks</b><br><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    <td width="50%" align="center">
+      <img src="./assets/projects/deus-vision-rm.svg" alt="Deus-Vision-RM (Private)" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <b>🦜 Agent & LLM Frameworks</b><br><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <td width="50%" align="center">
+      <img src="./assets/projects/omniaven-v2.svg" alt="OmniAven-v2 (Private)" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <b>🛠️ Dev Tools</b><br><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <td width="50%" align="center">
+      <a href="https://github.com/Valmorlee/RM_yoloONNX">
+        <img src="./assets/projects/rm-yolo-onnx.svg" alt="RM_yoloONNX" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Valmorlee/Sys_CSRoom">
+        <img src="./assets/projects/sys-csroom.svg" alt="Sys_CSRoom" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Valmorlee?tab=repositories">
+        <img src="./assets/projects/more-experiments.svg" alt="ArcMeow-Lab & More Repositories" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Projects Showcase
+### Telemetry &amp; Activity
 
-| 🛡️ Project | 📝 Description | 💻 Key Tech |
-| ----------- | -------------- | ----------- |
-| 🔒 **Hyxon** *(Private)* | An AI-powered educational workflow orchestration system — teaching plan generation, multi-agent classroom simulation, knowledge graph, RAG, and PPT pipeline. Built for **ArcMeow-Lab × ArcEdu**. My most ambitious project so far. | `Python`, `FastAPI`, `LangGraph`, `Neo4j`, `RAGFlow`, `Redis` |
-| 🔒 **Deus-Vision-RM** *(Private)* | RoboMaster 2027 full-auto vision system for **ZJUTDeus** infantry — C++20 multi-threaded pipeline on Jetson Orin, featuring YOLO11 + TensorRT FP16 inference, CUDA preprocessing, EKF multi-target tracking, and ballistic compensation. | `C++20`, `TensorRT`, `CUDA`, `OpenCV`, `Eigen3` |
-| 🔒 **OmniAven-v2** *(Private)* | A production-grade **AI search & orchestration gateway** written in **Rust** — featuring real-time SSE deep search, ONNX-based local reranking (BGE), vector semantic cache (Qdrant), LLM fallback orchestration, PII guardrails, and OpenAI-compatible API. My ~~overengineered~~ high-performance secret weapon. | `Rust`, `Axum`, `Tokio`, `Qdrant`, `ONNX`, `Redis` |
-| [**RM_yoloONNX**](https://github.com/Valmorlee/RM_yoloONNX) *(Demo)* | A personal learning reference for YOLO + ONNX Runtime in C++. Not production-grade — just me fumbling around with object detection before the real stuff. | `C++`, `ONNX`, `YOLO` |
-| [**Sys_CSRoom**](https://github.com/Valmorlee/Sys_CSRoom) | Terminal-based Computer Room Billing System. My first real C++ project — held together with love and `std::map`. | `C++`, `FTXUI` |
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="Valmorlee GitHub Telemetry" width="100%" />
+</p>
 
-*(More Agent shenanigans and CV experiments incoming... whenever I have time between exams 🫡)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=Valmorlee&theme=tokyonight&show_icons=true&hide_border=true" alt="Valmorlee's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valmorlee&theme=tokyonight&hide_border=true&background=0D1117" alt="Valmorlee's GitHub streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Valmorlee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valmorlee/Valmorlee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valmorlee/Valmorlee/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Valmorlee/Valmorlee/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
